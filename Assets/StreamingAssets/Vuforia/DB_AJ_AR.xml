@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Dumplings_3" size="0.300000 0.200098" />
+    <ImageTarget name="Tiramisu_5" size="0.300000 0.300000" />
+    <ImageTarget name="Tiramisu_4" size="0.300000 0.450000" />
+    <ImageTarget name="Tiramisu_3" size="0.300000 0.450000" />
+    <ImageTarget name="Tiramisu_2" size="0.300000 0.420000" />
+    <ImageTarget name="Tiramisu_1" size="0.300000 0.200000" />
+    <ImageTarget name="PannaCotta_3" size="0.300000 0.300000" />
+    <ImageTarget name="PannaCotta_2" size="0.300000 0.300000" />
+    <ImageTarget name="PannaCotta_4" size="0.300000 0.300000" />
+    <ImageTarget name="PannaCotta_1" size="0.300000 0.298507" />
+    <ImageTarget name="CremeBrulee_4" size="0.300000 0.200182" />
+    <ImageTarget name="CremeBrulee_3" size="0.300000 0.169398" />
+    <ImageTarget name="CremeBrulee_1" size="0.300000 0.300000" />
+    <ImageTarget name="Cheesecake_4" size="0.300000 0.300000" />
+    <ImageTarget name="Cheesecake_3" size="0.300000 0.200200" />
+    <ImageTarget name="Cheesecake_2" size="0.300000 0.299250" />
+    <ImageTarget name="Cheesecake_1" size="0.300000 0.300000" />
+  </Tracking>
+</QCARConfig>

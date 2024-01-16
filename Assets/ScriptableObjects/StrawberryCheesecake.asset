@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d877a595a3b546e0ae27a7697f80448b, type: 3}
+  m_Name: StrawberryCheesecake
+  m_EditorClassIdentifier: 
+  _headerSettings:
+    _backgroundSprite: {fileID: 21300000, guid: df236adbeb30d0547a190a71ab78a097, type: 3}
+    _headerText: Strawberry Cheesecake
+    _subHeaderText: A Sweet Symphony of Strawberries and Cream
+    _michelinStars: 2
+  _dataBlocks:
+  - _blockHeader: History
+    _blockText: The origins of Strawberry Cheesecake can be traced to ancient Greece,
+      where a simple mixture of cheese and honey paved the way for this luscious
+      creation.
+    _video: {fileID: 0}
+    _spriteImage: {fileID: 0}
+  - _blockHeader: Ingredients
+    _blockText: "Delight in the marriage of velvety cream cheese, graham cracker
+      crust, and vibrant strawberries\u2014a delectable treat for your taste buds."
+    _video: {fileID: 0}
+    _spriteImage: {fileID: 0}
+  - _blockHeader: How do we cook it?
+    _blockText: 
+    _video: {fileID: 32900000, guid: 75402cfa78c3c6848be5088ca8347d3e, type: 3}
+    _spriteImage: {fileID: 0}

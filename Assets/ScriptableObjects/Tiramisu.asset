@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d877a595a3b546e0ae27a7697f80448b, type: 3}
+  m_Name: Tiramisu
+  m_EditorClassIdentifier: 
+  _headerSettings:
+    _backgroundSprite: {fileID: 21300000, guid: d0897a542350acb43b67fcbce4426d67, type: 3}
+    _headerText: Tiramisu
+    _subHeaderText: 'Indulge in a Symphony of Coffee and Cream
+
+'
+    _michelinStars: 2
+  _dataBlocks:
+  - _blockHeader: History
+    _blockText: "Tiramisu, meaning \"pick me up\" in Italian, has roots in the Veneto
+      region and is celebrated for its delightful layers of espresso-soaked ladyfingers
+      and mascarpone.\r\r"
+    _video: {fileID: 0}
+    _spriteImage: {fileID: 0}
+  - _blockHeader: Ingredients
+    _blockText: "This heavenly dessert is crafted with delicate ladyfingers, rich
+      mascarpone cheese, robust espresso, and a dusting of cocoa\u2014a harmonious
+      blend of flavors.\r"
+    _video: {fileID: 0}
+    _spriteImage: {fileID: 0}
+  - _blockHeader: Crafting Process
+    _blockText: 
+    _video: {fileID: 32900000, guid: 027e3e1697ef2b14cab090ac8969bb06, type: 3}
+    _spriteImage: {fileID: 0}

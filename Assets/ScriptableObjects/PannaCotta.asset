@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d877a595a3b546e0ae27a7697f80448b, type: 3}
+  m_Name: PannaCotta
+  m_EditorClassIdentifier: 
+  _headerSettings:
+    _backgroundSprite: {fileID: 21300000, guid: 51e02c85381df2c46a7c861ea9c3b2cd, type: 3}
+    _headerText: Panna Cotta
+    _subHeaderText: Elegance in a Silky Italian Custard
+    _michelinStars: 1
+  _dataBlocks:
+  - _blockHeader: History
+    _blockText: Hailing from the Piedmont region of Italy, Panna Cotta emerged as
+      a culinary masterpiece in the early 20th century, captivating dessert enthusiasts
+      worldwide.
+    _video: {fileID: 0}
+    _spriteImage: {fileID: 0}
+  - _blockHeader: Ingredients
+    _blockText: Experience the simplicity of Panna Cotta with cream, sugar, and vanilla,
+      resulting in a smooth and velvety custard that is pure indulgence.
+    _video: {fileID: 0}
+    _spriteImage: {fileID: 0}
+  - _blockHeader: Putting It Together
+    _blockText: 
+    _video: {fileID: 32900000, guid: 9a273a05a67b9874fb13848bcae024e9, type: 3}
+    _spriteImage: {fileID: 0}

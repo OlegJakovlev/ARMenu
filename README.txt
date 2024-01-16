@@ -1,0 +1,1 @@
+In order to run the project, you need to install the Vuforia package yourself.

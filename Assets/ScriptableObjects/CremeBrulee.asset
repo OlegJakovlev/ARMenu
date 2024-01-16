@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d877a595a3b546e0ae27a7697f80448b, type: 3}
+  m_Name: CremeBrulee
+  m_EditorClassIdentifier: 
+  _headerSettings:
+    _backgroundSprite: {fileID: 21300000, guid: 935bf0ca85fda7c42a2aaed3773edb04, type: 3}
+    _headerText: "Creme Brulee\r"
+    _subHeaderText: "Crack into the Perfect Caramelized Creation\r"
+    _michelinStars: 2
+  _dataBlocks:
+  - _blockHeader: History
+    _blockText: "With its origins in 17th-century France, Creme Brulee has charmed
+      palates through the ages, transforming simple custard into an exquisite culinary
+      experience.\r"
+    _video: {fileID: 0}
+    _spriteImage: {fileID: 0}
+  - _blockHeader: Ingredients
+    _blockText: A decadent blend of cream, egg yolks, sugar, and a crisp caramelized
+      sugar crust defines the allure of this classic French dessert.
+    _video: {fileID: 0}
+    _spriteImage: {fileID: 0}
+  - _blockHeader: Bringing it to Life
+    _blockText: 
+    _video: {fileID: 32900000, guid: 0fdc750638b816a45b9779c97793e1c5, type: 3}
+    _spriteImage: {fileID: 0}
